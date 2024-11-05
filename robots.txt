@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvujoelu.github.io/MTK/sitemap_index.txt
+Sitemap: https://uvujoelu.github.io/eVi/sitemap_index.txt
+Sitemap: https://uvujoelu.github.io/lIr/sitemap_index.txt
+Sitemap: https://uvujoelu.github.io/rHn/sitemap_index.txt
